@@ -23,4 +23,4 @@ Developed an interactive E-commerce Sales Dashboard to analyze sales performance
 * Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart,line chard,area chart,map,slicers,etc)
   
 # Power Bi Dashboard 
-you can interact with this dashboar from https://github.com/ripambiswas19-del/Ecommerce-Sales-Dashboard-of-Power-Bi/blob/main/Ecommerce%20Sales%20Dashboards%20Power%20Bi.pbix
+you can interact with this dashboard from https://github.com/ripambiswas19-del/Ecommerce-Sales-Dashboard-of-Power-Bi/blob/main/Ecommerce%20Sales%20Dashboards%20Power%20Bi.pbix
