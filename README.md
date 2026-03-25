@@ -10,7 +10,7 @@ Developed an interactive E-commerce Sales Dashboard to analyze sales performance
 
 # Steps Coverd
 * Imported data as Text/CSV file into power Bi for creating dashboard
-* Used powewr quary editor to clean and transfrom the data
+* Used power quary editor to clean and transfrom the data
 * Apply all necessary cleaning steps, such as see column coundition like null values and changing column data type
 * Using dax formula created average order value column and see relationship between two tables
 * Add title ecommerce sales dashboard
